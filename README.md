@@ -1,3 +1,7 @@
+**The repository has been moved to**
+
+https://github.com/sagemath/memory_allocator
+
 # MemoryAllocator
 An extension class to allocate memory easily with cython.
 
